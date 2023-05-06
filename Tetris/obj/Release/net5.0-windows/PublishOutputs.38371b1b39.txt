@@ -1,0 +1,5 @@
+D:\samuel\CODE C#\Tetris\Tetris\bin\Release\net5.0-windows\app.publish\Tetris.exe
+D:\samuel\CODE C#\Tetris\Tetris\bin\Release\net5.0-windows\app.publish\Tetris.dll
+D:\samuel\CODE C#\Tetris\Tetris\bin\Release\net5.0-windows\app.publish\Tetris.deps.json
+D:\samuel\CODE C#\Tetris\Tetris\bin\Release\net5.0-windows\app.publish\Tetris.runtimeconfig.json
+D:\samuel\CODE C#\Tetris\Tetris\bin\Release\net5.0-windows\app.publish\Tetris.pdb
